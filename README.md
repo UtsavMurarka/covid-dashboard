@@ -1,5 +1,5 @@
 # Coronavirus Analytical Realtime Interactive Dashboard for India
-visit [here](http://coronavirustrackerindia.herokuapp.com/)
+Visit [here](http://coronavirustrackerindia.herokuapp.com/)
 
 ## Introduction
 
@@ -26,9 +26,9 @@ To install the app on your local machine and run on local host :
 
 1. Clone the repository `git clone https://github.com/UtsavMurarka/covid-dashboard.git`
 
-2. Download requirements by 'pip install -r requirements.txt`. (Use of virtual environment is recommended)
+2. Download requirements by `pip install -r requirements.txt`. (Use of virtual environment is recommended)
 
-3. Open terminal and run command `streamlit rum main.py`
+3. Open terminal and run command `streamlit run main.py`
 
 4. The app will open in your browser at localhost.
 
