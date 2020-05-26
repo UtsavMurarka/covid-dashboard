@@ -1,4 +1,4 @@
-# Coronavirus Analytics Dashboard for India
+# Coronavirus Analytical Realtime Interactive Dashboard for India
 
 ## Introduction
 
