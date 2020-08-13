@@ -31,7 +31,3 @@ To install the app on your local machine and run on local host :
 3. Open terminal and run command `streamlit run main.py`
 
 4. The app will open in your browser at localhost.
-
-## To Do
-
-Caching for data acquisition
